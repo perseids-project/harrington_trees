@@ -1853,3 +1853,13 @@ html {
   background-color: white;
   color: #292929;
 }
+
+.header {
+  background: url(../images/background.png) #4276b6;
+}
+.header a {
+  color: white;
+}
+.header a:hover {
+  color: #3399cc;
+}
