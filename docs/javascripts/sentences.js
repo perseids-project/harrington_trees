@@ -1,6 +1,7 @@
 var c = new CETEI();
 var base = "http://www.perseids.org/tools/arethusa/app/#/jmh?collid=<COLLID>&objid=<OBJID>&doc=<DOC>&chunk=<CHUNK>";
 var params = window.location.hash.substring(1).split('-');
+var raw = "https://raw.githubusercontent.com/perseids-project/harrington_trees/master/CITE_TREEBANK_XML/perseus/";
       
 
 /***********************************
@@ -51,7 +52,7 @@ c.addBehaviors({"handlers":{
        elt.appendChild(link);
     }
   }});
-c.getHTML5('../CITE_TREEBANK_XML/perseus/' + params[0] + '/' + params[1] + '/' + params[2] + '.tb.xml', function(data) {
+c.getHTML5(raw + params[0] + '/' + params[1] + '/' + params[2] + '.tb.xml', function(data) {
   document.getElementById("TEI").innerHTML = "";
   document.getElementById("TEI").appendChild(data);
   c.addStyle(document, data);
