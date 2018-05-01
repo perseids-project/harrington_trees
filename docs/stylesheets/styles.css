@@ -1001,7 +1001,7 @@ footer {
   }
 
   footer {
-    text-align: right;
+    text-align: left;
     margin: 20px auto;
     position: relative;
     left: auto;
