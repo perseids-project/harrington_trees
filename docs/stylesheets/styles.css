@@ -694,8 +694,8 @@ header p {
   margin-right: -382px;
   position: fixed;
   top: 115px;
-  background: #ffcc00;
-  border: 1px solid #f0b500;
+  background: #5560DE;
+  border: 1px solid #CED8F6;
   -moz-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
   -webkit-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
   -o-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
@@ -709,13 +709,13 @@ header p {
   padding-right: 10px;
 }
 #banner .button {
-  border: 1px solid #dba500;
-  background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffe788), color-stop(100%, #ffce38));
-  background: -webkit-linear-gradient(#ffe788, #ffce38);
-  background: -moz-linear-gradient(#ffe788, #ffce38);
-  background: -o-linear-gradient(#ffe788, #ffce38);
-  background: -ms-linear-gradient(#ffe788, #ffce38);
-  background: linear-gradient(#ffe788, #ffce38);
+  border: 1px solid #000000;
+  background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #5882FA), color-stop(100%, #5882FA));
+  background: -webkit-linear-gradient(#5882FA, #CED8F6);
+  background: -moz-linear-gradient(#5882FA, #CED8F6);
+  background: -o-linear-gradient(#5882FA, #CED8F6);
+  background: -ms-linear-gradient(#5882FA, #CED8F6);
+  background: linear-gradient(#5882FA, #CED8F6);
   -moz-border-radius: 2px;
   -webkit-border-radius: 2px;
   -o-border-radius: 2px;
@@ -726,7 +726,7 @@ header p {
   -webkit-box-shadow: inset 0px 1px 0px rgba(255, 255, 255, 0.4), 0px 1px 1px rgba(0, 0, 0, 0.1);
   -o-box-shadow: inset 0px 1px 0px rgba(255, 255, 255, 0.4), 0px 1px 1px rgba(0, 0, 0, 0.1);
   box-shadow: inset 0px 1px 0px rgba(255, 255, 255, 0.4), 0px 1px 1px rgba(0, 0, 0, 0.1);
-  background-color: #FFE788;
+  background-color: #5882FA;
   margin-left: 5px;
   padding: 10px 12px;
   margin-top: 6px;
@@ -738,13 +738,13 @@ header p {
   text-align: center;
 }
 #banner .button:hover {
-  background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffe788), color-stop(100%, #ffe788));
-  background: -webkit-linear-gradient(#ffe788, #ffe788);
-  background: -moz-linear-gradient(#ffe788, #ffe788);
-  background: -o-linear-gradient(#ffe788, #ffe788);
-  background: -ms-linear-gradient(#ffe788, #ffe788);
-  background: linear-gradient(#ffe788, #ffe788);
-  background-color: #ffeca0;
+  background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #5882FA), color-stop(100%, #5882FA));
+  background: -webkit-linear-gradient(#5882FA, #5882FA);
+  background: -moz-linear-gradient(#5882FA, #5882FA);
+  background: -o-linear-gradient(#5882FA, #5882FA);
+  background: -ms-linear-gradient(#5882FA, #5882FA);
+  background: linear-gradient(#5882FA, #5882FA);
+  background-color: #5882FA;
 }
 #banner .fork {
   position: fixed;
@@ -754,7 +754,7 @@ header p {
   margin-top: 6px;
   line-height: 14px;
   font-size: 14px;
-  background-color: #FFE788;
+  background-color: #5882FA;
 }
 #banner .downloads {
   float: right;
@@ -764,7 +764,7 @@ header p {
   float: left;
   line-height: 52px;
   font-size: 90%;
-  color: #9d7f0d;
+  color: #000000;
   text-transform: uppercase;
   text-shadow: rgba(255, 255, 255, 0.2) 0 1px 0;
 }
@@ -779,7 +779,7 @@ header p {
   display: inline;
 }
 #banner ul li a.button {
-  background-color: #FFE788;
+  background-color: #2E2EFE;
 }
 #banner #logo {
   position: absolute;
@@ -792,11 +792,12 @@ header p {
 }
 
 section {
-  width: 590px;
+  width: 1000px;
   padding: 30px 30px 50px 30px;
   margin: 20px 0;
   margin-top: 190px;
-  position: relative;
+position: relative;
+	left: -500px;
   background: #fbfbfb;
   -moz-border-radius: 3px;
   -webkit-border-radius: 3px;
@@ -896,7 +897,7 @@ footer {
     border-width: 1px 0;
     padding: 20px auto;
     margin: 190px auto 20px;
-    max-width: 600px;
+    max-width: 1000px;
   }
 
   footer {
