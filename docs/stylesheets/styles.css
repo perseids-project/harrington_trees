@@ -855,9 +855,9 @@ footer {
   width: 180px;
   position: fixed;
   left: 50%;
-  margin-left: -130px;
+  margin-left: 200px;
   bottom: 20px;
-  text-align: right;
+  text-align: left;
   line-height: 16px;
 }
 
