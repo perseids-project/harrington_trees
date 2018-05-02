@@ -509,7 +509,7 @@ body {
   font-weight: 300;
   margin: 0px;
   padding: 0px 0 20px 0px;
-  background: url(../images/body-background.png) #eae6d1;
+  background: #aeb6bf;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -632,10 +632,10 @@ td {
   text-align: left;
   padding: 5px 10px;
   border-bottom: 1px solid #e5e5e5;
-  border-right: 1px solid #ffcc00;
+  border-right: 1px solid #aeb6bf;
 }
 td:first-child {
-  border-left: 1px solid #ffcc00;
+  border-left: 1px solid #aeb6bf;
 }
 
 hr {
