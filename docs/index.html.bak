@@ -1,0 +1,567 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>Harringon trees by perseids-project</title>
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <link rel="stylesheet" href="stylesheets/github-dark.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script src="javascripts/main.js"></script>
+    <!--[if lt IE 9]>
+      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <meta name="viewport" content="width=1000px, initial-scale=1.5, user-scalable=no">
+
+  </head>
+  <body>
+
+      <header>
+        <h1>Perseids Project - Treebanked Commentaries at Tufts University</h1>
+        <p>J. Matthew Harrington, General Editor</p>
+      </header>
+
+      <div id="banner">
+        <span id="logo"></span>
+
+        <a href="https://github.com/perseids-project/harringon_trees" class="button fork"><strong>View On GitHub</strong></a>
+        <div class="downloads">
+          <span>Downloads:</span>
+          <ul>
+            <li><a href="https://github.com/perseids-project/harringon_trees/zipball/master" class="button">ZIP</a></li>
+            <li><a href="https://github.com/perseids-project/harringon_trees/tarball/master" class="button">TAR</a></li>
+          </ul>
+        </div>
+      </div><!-- end banner -->
+    <div class="wrapper">
+      <nav>
+        <ul></ul>
+      </nav>
+      <section>
+        By clicking on the links to the passages at the right of each table below, you can access text fully diagrammed and analyzed sentence by sentence, where every word, clause, and phrase is morphologically identified, syntactically labeled, and connected to the word or structure that it modifies: <b>a treebank</b>.  This is a resource for making even the most complex Latin or Greek transparent, allowing students of the language at all levels to work toward a full appreciation of the semantic nuance of the texts. <br/><br/>
+        The treebanked textal commentaries available through this portal are the ongoing publication of collaborative work beginning in fall of 2011 with students at Tufts University ranging from those in the 3rd semester to those in the most advanced graduate seminars in Latin and Ancient Greek.  After each semester ended, I (M. Harrington) edited and combined their work, resulting in the current  treebanked commentaries published within this project. <br/><br/>At the bottom of the page, you can download in pdf form instructions for navigating the treebanks and my complete <i>Synopsis of Latin Grammar</i> and my <i>Synopsis of Greek Grammar</i>, with explanations and examples of the morphology and syntax of Ancient Latin and Ancient Greek - arranged in the same order as the syntactic relationship menu of the treebanking interface.
+        <br/><br/><HR><br/><br/>
+        
+        <h3>AP PEDAGOGICAL TREEBANKING PROJECT</h3><br/>
+         The following table has links to the fully analyzed passages of the AP (Advanced Placement) curriculum.  
+        <table>
+          <thead>
+            <th>Author</th>
+            <th>Text</th>
+            <th>Editors</th>
+            <th>Loci</th>
+          </thead>
+          <tbody>
+          <tr>
+            <td>C. Iulius <b>Caesar</b></td>
+            <td>AP Gallic War</td>
+            <td><b>J. Matthew Harrington Ph.D.</b><br/>
+            Elizabeth A. Andrews M.A.T.<br/>
+            L. Bryce Bancroft M.A.T.<br/>
+            Michal H. Sagal M.A.T.</td>
+            <td>
+              <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=7229&doc=lattb.7229.1" alt="View 1.1-1.10 in Arethusa">1.1-1.10</a><br/>
+              Complete Book 1 Available Below<br/>
+             <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=4362&doc=lattb.4362.1" alt="View 4.24-4.36 in Arethusa">4.24-4.36</a><br/>
+              <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=4350&doc=lattb.4350.1" alt="View 5.24-48 in Arethusa">5.24-48</a><br/>
+              <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=misctb&objid=326&doc=misctb.326.1" alt="View 6.13-20 in Arethusa">6.13-20</a><br/>
+            </td>
+          </tr>
+          <tr>
+            <td>P. <b>Vergilius</b> Maro</td>
+            <td> AP Aeneid</td>
+            <td><b>J. Matthew Harrington Ph.D.</b><br/>
+            Elizabeth A. Andrews M.A.T.<br/>
+            L. Bryce Bancroft M.A.T.<br/>
+            Michal H. Sagal M.A.T.</td>
+            <td>
+              <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=6201&doc=lattb.6201.1" alt="View Vergil 1.1-209 in Arethusa">1.1-209</a><br/>
+              
+              <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=4573&doc=lattb.4573.1" alt="View Vergil 1.418-440 in Arethusa">1.418-440</a><br/>
+              <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=4575&doc=lattb.4575.1" alt="View Vergil 1.494-578 in Arethusa">1.494-578</a><br/>
+              Complete Book 1 Available Below<br/>
+              <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=4577&doc=lattb.4577.1" alt="View Vergil 2.40-56 in Arethusa">2.40-56</a><br/>
+              <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=4578&doc=lattb.4578.1" alt="View Vergil 2.201-249 in Arethusa">2.201-249</a><br/>
+              <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=4600&doc=lattb.4600.1" alt="View Vergil 2.268-297 in Arethusa">2.268-297</a><br/>
+              <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=4601&doc=lattb.4601.1" alt="View Vergil 2.559-620 in Arethusa">2.559-620</a><br/>
+              <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=4793&doc=lattb.4793.1" alt="View Vergil 4.160-218 in Arethusa">4.160-218</a><br/>
+              <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=4779&doc=lattb.4779.1" alt="View Vergil 4.259-361 in Arethusa">4.259-361</a><br/>
+              <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=4780&doc=lattb.4780.1" alt="View Vergil 4.659-705 in Arethusa">4.659-705</a><br/>
+              <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=4808&doc=lattb.4808.1" alt="View Vergil 6.295-332 in Arethusa">6.295-332</a><br/>
+              <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=4809&doc=lattb.4809.1" alt="View Vergil 6.384-425 in Arethusa">6.384-425</a><br/>
+              <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=4810&doc=lattb.4810.1" alt="View Vergil 6.450-476 in Arethusa">6.450-476</a><br/>
+              <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=4824&doc=lattb.4824.1" alt="View Vergil 6.847-901 in Arethusa">6.847-901</a> <br/>
+            </td>
+</tr>
+          </tbody>
+        </table>
+        In the fall semester of 2015, as part of an advanced seminar on the AP curriculum texts from Caesar and Vergil, three Classics MA with Initial Teaching Licensure students (now graduated) collaborated under my supervision to fully analyze the AP Latin texts within these treebanks.
+        <br/><br/><HR><br/><br/>
+        
+        <h3>Tufts Latin Treebanked Commentaries </h3><br/>
+           
+        <table>
+          <thead>
+            <th>Author</th>
+            <th>Text</th>
+            <th>Editors</th>
+            <th>Loci</th>
+          </thead>
+          <tbody>
+          <tr>
+            <td>C. Iulius Caesar <b>Augustus</b></td>
+            <td><i>Res Gestae Divi Augusti</i></td>
+            <td><b>J. Matthew Harrington Ph.D.</b><br/>
+            Elliot Blume-Pickle <br/>
+            Cornelia Johnston <br/>
+            Christian Kelley <br/>
+            Tom Meade <br/>
+            Kayla Wiliamson </td>
+            <td>
+              <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=4301&doc=lattb.4301.1" alt="View Res Gestae in Arethusa"><i>Res Gestae</i></a><br/>
+            </td>
+          </tr>
+            <tr>
+            <td>C. Iulius <b>Caesar</b></td>
+            <td><i>Commentarii de Bello Gallico</i>, Book 1</td>
+            <td><b>J. Matthew Harrington Ph.D.</b><br/>
+            Elizabeth A. Andrews M.A.T.<br/>
+            L. Bryce Bancroft M.A.T.<br/>
+            Michal H. Sagal M.A.T.<br/>
+            Brian R. Clark<br/>
+              Jeanne M. Cook<br/>
+              Tianran Liu<br/>
+              Maria Mo<br/>
+              James R. Prosser<br/>
+              Kieran H. Sadler<br/>
+              Mercedes Sisk<br/>
+            Jiyoung Song</td>
+            <td>
+              Book 1, sections <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=7229&doc=lattb.7229.1" alt="View 1.1-1.10 in Arethusa">1-10</a><br/>
+            Book 1, sections <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=7223&doc=lattb.7223.1" alt="View 1.11-1.20 in Arethusa">11-20</a><br/>
+            Book 1, sections <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=7233&doc=lattb.7233.1" alt="View 1.21-1.30 in Arethusa">21-30</a><br/>  
+            Book 1, sections <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=7270&doc=lattb.7270.1" alt="View 1.31-1.40 in Arethusa">31-40</a><br/>
+            Book 1, sections <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=7235&doc=lattb.7235.1" alt="View 1.41-1.50 in Arethusa">41-50</a><br/>  
+            Book 1, sections <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=7236&doc=lattb.7236.1" alt="View 1.51-1.54 in Arethusa">51-54<br/>
+            </td>
+          </tr>
+            <tr>
+            <td>C. Iulius <b>Caesar</b> (Aulus <b>Hirtius</b>)</td>
+            <td><i>Commentarii de Bello Gallico</i>, Book 8</td>
+            <td><b>J. Matthew Harrington Ph.D.</b>
+            </td>
+            <td>
+              Book 8, sections <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=7501&doc=lattb.7501.1" alt="View praefatio in Arethusa">praefatio</a><br/>
+            Book 8, sections <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=7535&doc=lattb.7535.1" alt="View 1-10 in Arethusa">1-10</a><br/>
+            Book 8, sections 11-20<br/>
+            Book 8, sections 21-30<br/>  
+            Book 8, sections 31-40<br/>
+            Book 8, sections 41-50<br/>  
+            Book 8, sections 51-55<br/>
+            </td>
+          </tr>
+            <tr>
+            <td>C. Valerius <b>Catullus</b></td>
+            <td><i>Carmina</i></td>
+            <td><b>J. Matthew Harrington Ph.D.</b></td>
+            <td> 
+              
+              <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=4806&doc=lattb.4806.1" alt="View Carmen 1 in Arethusa">1</a>, 
+              <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=6521&doc=lattb.6521.1" alt="View Carmen 2a in Arethusa">2a</a>, 
+              <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=4651&doc=lattb.4651.1" alt="View Carmen 2b in Arethusa">2b</a>
+              <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=4599&doc=lattb.4599.1" alt="View Carmen 3 in Arethusa">3</a>, 
+              <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=4639&doc=lattb.4639.1" alt="View Carmen 4 in Arethusa">4</a>, 
+              <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=4636&doc=lattb.4636.1" alt="View Carmen 5 in Arethusa">5</a>, 
+              <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=6202&doc=lattb.6202.1" alt="View Carmen 6 in Arethusa">6</a>, 
+              <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=4637&doc=lattb.4637.1" alt="View Carmen 7 in Arethusa">7</a>, 
+              <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=6262&doc=lattb.6262.1" alt="View Carmen 8 in Arethusa">8</a>, 
+              <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=6272&doc=lattb.6272.1" alt="View Carmen 9 in Arethusa">9</a>,
+              <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=6520&doc=lattb.6520.1" alt="View Carmen 10 in Arethusa">10</a>, 
+              <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=4644&doc=lattb.4644.1" alt="View Carmen 11 in Arethusa">11</a>, 
+              <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=6267&doc=lattb.6267.1" alt="View Carmen 12 in Arethusa">12</a>, 
+              <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=4638&doc=lattb.4638.1" alt="View Carmen 13 in Arethusa">13</a>, 
+              <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=6273&doc=lattb.6273.1" alt="View Carmen 14a in Arethusa">14a</a>,
+              <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=6275&doc=lattb.6275.1" alt="View Carmen 14b in Arethusa">14b</a>, 
+              <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=6285&doc=lattb.6285.1" alt="View Carmen 15 in Arethusa">15</a>, 
+              <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=4585&doc=lattb.4585.1" alt="View Carmen 16 in Arethusa">16</a>, 
+              17, 
+              (spurious 18, 19, 20),
+              21,
+              22,
+              <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=4652&doc=lattb.4652.1" alt="View Carmen 23 in Arethusa">23</a>,
+              24,
+              25,
+              26,
+              27,
+              28,
+              29,
+              30,
+            </td>
+          </tr>
+          <tr>
+            <td>M. Tullius <b>Cicero</b></td>
+            <td><i>Oratio in Catilinam I</i></td>
+            <td><b>J. Matthew Harrington Ph.D.</b><br/>
+            
+            <td>
+            sections <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=6361&doc=lattb.6361.1" alt="View 1-10 in Arethusa"> 1-10</a>,<br/>
+            sections 11-20,<br/>
+            sections 21-30,<br/>  
+            sections 31-33<br/>
+              (forthcoming Summer 2019)
+            </td>
+          </tr>
+            <tr>
+            <td>M. Tullius <b>Cicero</b></td>
+            <td><i>Oratio pro Caelio</i></td>
+            <td><b>J. Matthew Harrington Ph.D.</b><br/>
+            Quinn Collins <br/>
+            Mariah L. Crowley <br/>
+            Anthony C. Diana <br/>
+            Emily J. Garber <br/>
+            Jordan L. Hawkesworth <br/>
+            Sonja M. Knudson <br/>
+            Isabel L. Kreeger <br/>
+            Drew Latimer <br/>
+            William W. Mairs <br/>
+            Maria Mo <br/>
+            Kathryn R. Monaghan <br/>
+            Faith L. Patrick <br/>
+            Elizabeth M. Roche <br/>
+            Kieran H. Sadler <br/>
+            Julia A. Zubiago </td>
+            <td>
+            sections <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=532&doc=lattb.532.1" alt="View 1-5 in Arethusa"> 1-5</a>,<br/>
+              sections <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=6495&doc=lattb.6495.1" alt="View 6-10 in Arethusa"> 6-10</a>,<br/>
+              sections <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=805&doc=lattb.805.1" alt="View 11-15 in Arethusa"> 11-15</a>,<br/>            
+            sections <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=6498&doc=lattb.6498.1" alt="View 16-20 in Arethusa"> 16-20</a>,<br/>
+            sections <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=6499&doc=lattb.6499.1" alt="View 21-25 in Arethusa"> 21-25</a>,<br/>  
+            sections <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=1030&doc=lattb.1030.1" alt="View 26-30 in Arethusa"> 26-30</a>,<br/>
+            sections <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=1005&doc=lattb.1005.1" alt="View 31-35 in Arethusa"> 31-35</a>,<br/>
+            sections <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=1019&doc=lattb.1019.1" alt="View 36-40 in Arethusa"> 36-40</a>,<br/>  
+            sections <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=1021&doc=lattb.1021.1" alt="View 41-45 in Arethusa"> 41-45</a>,<br/>
+            sections <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=1022&doc=lattb.1022.1" alt="View 46-50 in Arethusa"> 46-50</a>,<br/>
+            sections <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=1025&doc=lattb.1025.1" alt="View 51-55 in Arethusa"> 51-55</a>,<br/>  
+            sections <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=1026&doc=lattb.1026.1" alt="View 56-60 in Arethusa"> 56-60</a>,<br/>
+            sections <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=1023&doc=lattb.1023.1" alt="View 61-65 in Arethusa"> 61-65</a>,<br/>  
+            sections <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=1027&doc=lattb.1027.1" alt="View 66-70 in Arethusa"> 66-70</a>,<br/>
+            sections 71-75,<br/>
+            sections 76-80<br/>  
+              
+            </td>
+          </tr>
+          <tr>
+            <td>M. Tullius <b>Cicero</b></td>
+            <td><i>Oratio pro Roscio Amerino</i></td>
+            <td><b>J. Matthew Harrington Ph.D.</b><br/>
+            Elizabeth A. Andrews <br/>
+            Erin Cummins <br/>
+            William Donovan <br/>
+            Corey Hamilton <br/>
+            John Moore <br/>
+            David Parkinson <br/>
+            James Prosser </td>
+            <td>
+              sections 1-10,<br/> 
+              sections 11-20,<br/>  
+            sections 21-30,<br/>
+              sections 31-40,<br/>
+            sections 41-50,<br/>  
+            sections 51-60,<br/>
+              sections 61-70,<br/>
+            sections 71-80,<br/>  
+            sections 81-90,<br/>
+              sections 91-100,<br/>
+            sections 101-110,<br/>  
+            sections 111-120,<br/>
+              sections 121-130,<br/>
+            sections 131-140,<br/>  
+            sections 141-150,<br/>
+              sections 151-154<br/>
+            
+              (forthcoming Summer 2019)
+            </td>
+          </tr>
+          <tr>
+            <td>(D. Iunius) <b>Juvenalis</b></td>
+            <td><i>Saturae</i></td>
+            <td><b>J. Matthew Harrington Ph.D.</b></td>
+            <td>
+             <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=6042&doc=lattb.6042.1" alt="View Juvenal Satire 1 in Arethusa"><i>Satire 1</i></a><br/>
+             <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=6044&doc=lattb.6044.1" alt="View Juvenal Satire 2 in Arethusa"><i>Satire 2</i></a><br/>
+             <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=6047&doc=lattb.6047.1" alt="View Juvenal Satire 3 in Arethusa"><i>Satire 3</i></a><br/>
+             Satire 4<br/>
+             Satire 5<br/>
+             <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=4331&doc=lattb.4331.1" alt="View Juvenal Satire 6 in Arethusa"><i>Satire 6</i></a><br/>
+             <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=6043&doc=lattb.6043.1" alt="View Juvenal Satire 7 in Arethusa"><i>Satire 7</i></a><br/>
+             Satire 8<br/>
+             Satire 9<br/>
+             <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=4990&doc=lattb.4990.1" alt="View Juvenal Satire 10 in Arethusa"><i>Satire 10</i></a><br/>
+             Satire 11<br/>
+             Satire 12<br/>
+             Satire 13<br/>
+             Satire 14<br/>
+             Satire 15<br/>
+             Satire 16<br/>
+            </td>
+          </tr>
+            <tr>
+            <td>P. <b>Ovidius</b> Naso</td>
+            <td><i>Amores</i></td>
+            <td><b>J. Matthew Harrington Ph.D.</b><br/>
+            Jiyoung Song <br/>
+            
+            <td>
+              <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=6282&doc=lattb.6282.1" alt="View Epigram in Arethusa">Epigram</a><br/>
+              <b>Book I:</b>  
+              <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=6561&doc=lattb.6561.1" alt="View Amores 1.1 in Arethusa"><i>1.1</i></a>,
+            <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=6367&doc=lattb.6367.1" alt="View Amores 1.2 in Arethusa"><i>1.2</i></a>, 
+              <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=6368&doc=lattb.6368.1" alt="View Amores 1.3 in Arethusa"><i>1.3</i></a>, 
+              <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=6369&doc=lattb.6369.1" alt="View Amores 1.4 in Arethusa"><i>1.4</i></a>, 
+              1.5, 1.6, 1.7, 1.8, 1.9, 1.10, 1.11, 
+              <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=6946&doc=lattb.6946.1" alt="View Amores 1.12 in Arethusa"><i>1.12</i></a>,
+              1.13, 
+              <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=6970&doc=lattb.6970.1" alt="View Amores 1.14 in Arethusa"><i>1.14</i></a>,
+              1.15 <br/>
+              <b>Book II:</b>  2.1, 2.2, 2.3, 2.4, 2.5, 2.6, 2.7, 2.8, 2.9, 2.10, 2.11, 2.12, 2.13, 2.14, 2.15, 2.16, 2.17, 2.18, 2.19<br/>
+              <b>Book III:</b>  3.1, 3.2, 3.3, 3.4, 3.5, 3.6, 3.7, 3.8, 3.9, 3.10, 3.11, 3.12, 3.13, 3.14, 3.15<br/>
+              
+              </td>
+          </tr>
+              <tr>
+            <td>P. <b>Ovidius</b> Naso</td>
+            <td><i>Metamorphoseon Libri, Book 1</i></td>
+            <td><b>J. Matthew Harrington Ph.D.</b><br/>
+             Brian Clark <br/>
+             Meredith Millar <br/>
+             Jiyoung Song <br/>
+                </td>
+            <td>
+              <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=6547&doc=lattb.6547.1" alt="View Metamorphoses 1.1-88 in Arethusa">1.1-88</a> - Creation<br/>
+              <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=6200&doc=lattb.6200.1" alt="View Metamorphoses 1.89-312 in Arethusa">1.89-312</a> - The Four Ages & the Flood<br/>
+              <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=5983&doc=lattb.5983.1" alt="View Metamorphoses 1.313-451 in Arethusa">1.313-451</a> - Deucalion & Pyrrha<br/>
+              <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=6222&doc=lattb.6222.1" alt="View Metamorphoses 1.452-567 in Arethusa">1.452-567</a> - Phoebus and Daphne<br/>
+              <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=6392&doc=lattb.6392.1" alt="View Metamorphoses 1.568-750 in Arethusa">1.568-750</a> - Io<br/>
+              <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=6393&doc=lattb.6393.1" alt="View Metamorphoses 1.750-779 in Arethusa">1.750-779</a> - Phaethon<br/>
+            </td>
+          </tr>
+            <tr>
+            <td>P. <b>Ovidius</b> Naso</td>
+            <td><i>Metamorphoseon Libri, Book 13</i></td>
+            <td><b>Brian Clark</b> <br/>
+              <b>J. Matthew Harrington Ph.D.</b><br/>
+                </td>
+            <td>
+              <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=6652&doc=lattb.6652.1" alt="View Metamorphoses 13.1-88 in Arethusa">13.1-122</a> - The Speech of Aiax<br/>
+              <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=7201&doc=lattb.7201.1" alt="View Metamorphoses 13.123-398 in Arethusa">13.123-398</a> - The Speech of Ulixes<br/>
+              <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=7200&doc=lattb.7200.1" alt="View Metamorphoses 13.399-575 in Arethusa">13.399-575</a> - The Fate of the House of Priam<br/>
+              <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=7227&doc=lattb.7227.1" alt="View Metamorphoses 13.576-622 in Arethusa">13.576-622</a> - Aurora and Memnon<br/>
+              <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=7242&doc=lattb.7242.1" alt="View Metamorphoses 13.123-398 in Arethusa">13.623-737</a> - The Little Aeneid<br/>
+              <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=7337&doc=lattb.7337.1" alt="View Metamorphoses 13.738-897 in Arethusa">13.738-897</a> - Acis, Galatea, and Polyphemus<br/>
+              <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=7339&doc=lattb.7339.1" alt="View Metamorphoses 13.898-968 in Arethusa">13.898-968</a> - Glaucus and Scylla<br/>
+            </td>
+          </tr>
+            <tr>
+            <td>C. <b>Sallustius</b> Crispus</td>
+            <td><i>Bellum Iugurthinum</i></td>
+            <td><b>J. Matthew Harrington Ph.D.</b><br/>
+            Julia Lenzi <br/>
+            Matt Kelley <br/>
+            Tim Buckingham <br/>
+            Erin Cummins <br/>
+            Douglas Cavers <br/>
+            Michael Brown <br/>
+            Hilary Cheney <br/>
+            Punit Matta <br/>
+            Daniel Orazio <br/>
+            Julia A. Zubiago </td>
+            <td>
+               sections 1-10,<br/> 
+              sections 11-20,<br/>  
+            sections 21-30,<br/>
+              sections 31-40,<br/>
+            sections 41-50,<br/>  
+            sections 51-60,<br/>
+              sections 61-70,<br/>
+            sections 71-80,<br/>  
+            sections 81-90,<br/>
+              sections 91-100,<br/>
+            sections 101-110,<br/>  
+            sections 111-114<br/>
+            
+              (forthcoming Sprin 2020)
+            </td>
+          </tr>
+          
+          <tr>
+            <td><b>Petronius</b></td>
+            <td><i>Satyricon</i> selections</td>
+            <td><b>J. Matthew Harrington Ph.D.</b><br/>
+            Peter Ambrus<br/>
+            Ruth Barry <br/>
+            Emily Deale<br/>
+            Zoe Howard<br/>
+            Gabriel Kennedy<br/>
+            Theodore Laurita <br/>
+            Matthew Rohrer<br/>
+            Ellexa Thomas</td>
+            <td>
+             <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=4979&doc=lattb.4979.1" alt="View Satyricon 12-15 in Arethusa">12-15</a> Incident at a Market<br/>
+              <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=4883&doc=lattb.4883.1" alt="View Satyricon 26.7-33 in Arethusa">26.7-33</a> Cena Trimalchionis - Preliminaries<br/>
+             <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=4862&doc=lattb.4862.1" alt="View Satyricon 41.9-46 in Arethusa">41.9-46</a> Cena Trimalchionis - Conversations without Trimalchio<br/>
+             <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=4863&doc=lattb.4863.1" alt="View Satyricon 47.8-49 in Arethusa">47.8-49</a> Cena Trimalchionis - A Practical Joke<br/>
+             <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=4836&doc=lattb.4836.1" alt="View Satyricon 61-64.1 in Arethusa">61-64.1</a> Cena Trimalchionis - Stories of the Supernatural<br/>
+             <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=6079&doc=lattb.6079.1" alt="View Satyricon 71-73 in Arethusa">71-73</a> Cena Trimalchionis - Tomb and Will<br/>
+              <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=6407&doc=lattb.6407.1" alt="View Satyricon 74-75 in Arethusa">74-75</a> Cena Trimalchionis - Early Career<br/>
+              <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=6491&doc=lattb.6491.1" alt="View Satyricon 76-78 in Arethusa">76-78</a> Cena Trimalchionis - Success and Funeral<br/>
+              <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=4841&doc=lattb.4841.1" alt="View Satyricon 111-112 in Arethusa">111-112</a> Matron of Ephesos<br/>
+              <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=4881&doc=lattb.4881.1" alt="View Satyricon 115.7-end in Arethusa">115.7-end</a> Mourning for Lichas<br/>
+              <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=4882&doc=lattb.4882.1" alt="View Satyricon 141.2-end in Arethusa">141.2-end</a> Legacy Hunters<br/>
+              
+            </td>
+          </tr>
+          <tr>
+            <td>(Servia) <b>Sulpicia</b></td>
+            <td><i>Carmina</i></td>
+            <td><b>J. Matthew Harrington Ph.D.</b></td>
+            <td>
+              <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=4757&doc=lattb.4757.1" alt="View Carmen 1 in Arethusa"><i>1</i></a>, 
+              <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=4713&doc=lattb.4713.1" alt="View Carmen 2 in Arethusa"><i> 2</i></a>, 
+              <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=4758&doc=lattb.4758.1" alt="View Carmen 3 in Arethusa"><i> 3</i></a>,
+              <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=4759&doc=lattb.4759.1" alt="View Carmen 4 in Arethusa"><i> 4</i></a>,
+              <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=4760&doc=lattb.4760.1" alt="View Carmen 5 in Arethusa"><i> 5</i></a>,
+              <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=4712&doc=lattb.4712.1" alt="View Carmen 6 in Arethusa"><i> 6</i></a> 
+            </td>
+          </tr>
+             <tr>
+            <td>P. <b>Vergilius</b> Maro</td>
+            <td><i>Aeneid</i>, Book 1</td>
+            <td><b>J. Matthew Harrington Ph.D.</b><br/>
+            Elizabeth A. Andrews M.A.T.<br/>
+            L. Bryce Bancroft M.A.T.<br/>
+            Brian Clark<br/>
+              Jeanna Cook<br/>
+              Michal H. Sagal M.A.T.
+               </td>
+            <td>
+              <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=7422&doc=lattb.7422.1" alt="View Vergil 1.1-222 in Arethusa">1.1-222</a> - Wrath of Juno<br/>
+            <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=7404&doc=lattb.7404.1" alt="View Vergil 1.223-417 in Arethusa">1.223-417</a> - Venus Intervenes<br/>
+            <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=7423&doc=lattb.7423.1" alt="View Vergil 1.418-560 in Arethusa">1.418-560</a> - Meeting Dido<br/>
+              <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=7424&doc=lattb.7424.1" alt="View Vergil 1.561-756 in Arethusa">1.561-756</a> - Dinner with Dido<br/>
+            </td>
+</tr>
+            
+          </tbody>
+        </table>
+        
+       <br/> <h3>Tufts Greek Treebanked Commentaries </h3><br/>
+           
+        <table>
+          <thead>
+            <th>Author</th>
+            <th>Text</th>
+            <th>Editors</th>
+            <th>Loci</th>
+          </thead>
+          <tbody>
+  
+          
+          <tr>
+            <td><b>First Council of Nicea</b></td>
+            <td><i>Nicene Creed 325 CE</i></td>
+            <td><b>J. Matthew Harrington Ph.D.</b><br/>
+            
+            <td>
+             <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=grctb&objid=4606&doc=grctb.4606.1" alt="View Nicene Creed in Arethusa">Nicene Creed</a><br/>
+            </td>
+          </tr>
+          <tr>
+            <td><b>Unknown - Theodotion editor</b></td>
+            <td><i>Susanna</i></td>
+            <td><b>J. Matthew Harrington Ph.D.</b></td>
+            <td>
+              <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=grctb&objid=2556&doc=grctb.2556.1" alt="View Susanna in Arethusa"><i>Susanna</i></a> 
+              
+            </td>
+          </tr>
+            <tr>
+            <td><b>Lucian</b></td>
+            <td><i>True Histories I</i></td>
+            <td><b>Tianran Liu</b><br/>
+              <b>J. Matthew Harrington Ph.D.</b>
+            </td>
+            <td>
+              <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=grctb&objid=5279&doc=grctb.5279.1" alt="View True Histories I: 1-4 in Arethusa"><i>True Histories I: 1-4 </i></a>Preface <br/>
+              <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=grctb&objid=5280&doc=grctb.5280.1" alt="View True Histories I: 5-47 in Arethusa"><i>True Histories I: 5-47 </i></a> <br/>
+              
+              
+            </td>
+          </tr>
+            </tr>
+            <tr>
+            <td><b>Unknown</b></td>
+            <td><i>Life of Aesop (Vita G)</i></td>
+            <td><b>Glenn B. Maur</b><br/>
+              <b>J. Matthew Harrington Ph.D.</b>
+            </td>
+            <td>
+              <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=grctb&objid=6941&doc=grctb.6941.1" alt="View Life of Aesop (Vita G): 1-10 in Arethusa"><i>Life of Aesop (Vita G): 1-10</i></a><br/>
+              <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=grctb&objid=6942&doc=grctb.6942.1" alt="View Life of Aesop (Vita G): 11-20 in Arethusa"><i>Life of Aesop (Vita G): 11-20</i></a> <br/>
+              <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=grctb&objid=6943&doc=grctb.6943.1" alt="View Life of Aesop (Vita G): 21-30 in Arethusa"><i>Life of Aesop (Vita G): 21-30</i></a> <br/>
+            <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=grctb&objid=7104&doc=grctb.7104.1" alt="View Life of Aesop (Vita G): 31-40 in Arethusa"><i>Life of Aesop (Vita G): 31-40</i></a> <br/>
+              <a href="http://www.perseids.org/tools/arethusa/app/#/jmh?collid=grctb&objid=7103&doc=grctb.7103.1" alt="View Life of Aesop (Vita G): 41-50 in Arethusa"><i>Life of Aesop (Vita G): 41-50</i></a> <br/>  
+            </td>
+          </tr>
+          </tbody>
+        </table>
+        With the exception of the texts that I have annoted myself, each of these treebanked commentaries on an ancient text represents a semester of immersive study within a dedicated course.  While closely reading the texts, students intensively debated particular instances of constructions and usages and by doing so came to understand the structural differences between, for example, a <i>Dative of Interest</i> and a <i>Dative of Reference</i> or between a <i>Purpose Clause</i> and a <i>Clause of Comparison</i>.  In each instance, their cumulative final project was to independently complete a treebanked commentary of their assigned portion of the text.  After each semester ended, I (M. Harrington) edited and combined their work, resulting in the current treebanked commentaries published within this project. As an Example: In the spring semester of 2015, as part of an Latin 3 course on the <i>Satyricon</i> of Petronius and the <i>Res Gestae Divi Augusti</i>, five undergraduate students collaborated under my supervision to fully analyze the Latin text of the <i>Res Gestae Divi Augusti</i>.
+        <br/><br/><HR><HR><br/>
+         <h3>Downloads</h3><br/>
+        These Synopses of Ancient Latin and Greek Grammar are designed to maximize clarity and usability, and they use the same organization, terminology, and even color coding of morphemes in the paradigms to allow the significant and extensive parallels in the syntax and morphology of Latin and Greek to be as explicit as possible.  Both texts are written from the perspective of the linguistic approach of dependency grammar emphasizing the functional role of morphosyntax in constructing the semantic force of each sentence.<br/><br/>
+        <a href="https://github.com/perseids-project/harrington_trees/tree/master/docs/Harrington-Latin-Grammar-2016.pdf" download> Harrington, J. Matthew. <i>Synopsis of Latin Grammar.</i> (Version 3.0.) Perseids Project, Tufts University. 2016.</a><br/><br/>
+         <a href="https://github.com/perseids-project/harrington_trees/tree/master/docs/Harrington-Greek-Grammar-2016.pdf" download>Harrington, J. Matthew. <i>Synopsis of Greek Grammar.</i> (Version 3.0.) Perseids Project, Tufts University. 2016.</a><br/>
+         <HR>
+          The handouts linked below are the materials that are given to the students in courses at Tufts that have treebanking as a component of their syllabus.<br/><br/>
+          <a href="https://github.com/perseids-project/harrington_trees/tree/master/docs/Harrington-Latin-Tagset-Instructions-8.pdf" download>Harrington, J. Matthew. <i>Latin Treebanking Guidelines.</i>  Perseids Project, Tufts University. December 2017.</a><br/><br/>
+           <a href="https://github.com/perseids-project/harrington_trees/tree/master/docs/Harrington-Greek-Tagset-Instructions-5.pdf" download>Harrington, J. Matthew. <i>Greek Treebanking Guidelines.</i>  Perseids Project, Tufts University. December 2017.</a><br/><br/>
+          <a href="https://github.com/perseids-project/harrington_trees/tree/master/docs/Harrington-Latin-tagset-3.pdf" download>Harrington, J. Matthew. <i>Latin Treebanking Tagset List.</i> Perseids Project, Tufts University. 2016.</a><br/>
+          <a href="https://github.com/perseids-project/harrington_trees/tree/master/docs/Harrington-Greek-tagset.pdf" download>Harrington, J. Matthew. <i>Greek Treebanking Tagset List.</i> Perseids Project, Tufts University. 2016.</a>
+      <br/><br/><HR><br/>
+         <h3>About the Project</h3><br/>
+         Like the <b>Perseids Project</b> of Tufts University itself, this project grows directly from the pioneering work in the Digital Humanities of Professor Gregory Crane, editor of the <b>Perseus Digital Library</b> at Tufts University. The Perseus Project continues to make ancient texts freely accessible to the world and provides powerful tools to facilitate engagement with those texts. Built on this foundation, these treebanked commentaries identify not just what morphological form an individual word might be, but clearly indicate precisely what form a word IS and both identify and visualize that word's exact syntactic relationship with all of the other words and structures within the sentence. This project is built within the 
+<a href="https://perseusdl.github.io/treebank_data/">Perseus ALDT (Ancient Latin Dependency Treebank)/AGDT (Ancient Greek Dependency Treebank)</a> environment and relies on the contributions of many scholars, programmers, and funding organizations listed at the linked webpage.<br/><br/> 
+         In addition to allowing students of the ancient languages to contribute meaningfully to ongoing research from their third semester of study, this project is designed to make possible collaboration between all levels of study and instruction within the broader field of the Classics.  It is my hope that students and instructors from middle school to graduate study will find these treebanked commentaries and their associated Synopses of Latin and Greek Grammar a powerful tool for making deep engagement with the original texts both more precise and efficient.  
+         <br/><br/><HR><br/>
+         <h3>Acknowledgements</h3><br/>
+         <TABLE>
+   <TR>
+      
+      <TD><p><a href="http://www.perseids.org/"><img src="images/perseids_banner31.png" alt="Perseids Project Homepage" width="549" height="98" border="0"></a></p>
+      </TD>
+   </TR>
+   <TR>
+      <TD><p><a href="http://www.perseus.tufts.edu/hopper/"><img src="images/Perseus_banner.png" alt="Perseus Digital Library" width="452" height="94" border="0"></a></p>
+      </TD>
+      
+   </TR>
+   <TR>
+      <TD><p><a href="http://alpheios.net/"><img src="images/alpheios-logo.png" alt="Alpheios Homepage" width="214" height="43" border="0"></a></p>
+      </TD>
+   </TR>
+           
+</TABLE>
+           <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Dataset" rel="dct:type">work</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://perseids-project.github.io/harrington_trees/" property="cc:attributionName" rel="cc:attributionURL">J. Matthew Harrington et Alii</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.<br><br>
+           <hr/>
+           <p>General Editor: J. Mattthew Harrington @jmharrington</p>
+        <p>Project maintained by <a href="https://github.com/perseids-project">perseids-project</a></p>
+
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/michigangraham">mattgraham</a></small></p>
+         </section>
+      <footer>
+        
+      </footer>
+    </div>
+    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+    
+  </body>
+</html>
